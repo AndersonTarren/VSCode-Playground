@@ -1,2 +1,2 @@
 # Testing VSCode Configurations 
-Should be a lot of fun. All day long.
+Should be a lot of fun. All day!
